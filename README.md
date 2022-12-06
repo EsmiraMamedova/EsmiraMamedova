@@ -31,3 +31,10 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;    
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+                                        
+                                                 The future depends on what you do today!
+
+<div align="center">
+  <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/new-york-and-philadelphia-skylines-mashup-michael-tompsett.jpg" width="900" height="300"/>
+</div>
+

@@ -4,11 +4,12 @@
 #### My LinkedIn profile:<div id="badges">
   <a href="https://www.linkedin.com/in/esmira-mamedova/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<div align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
+  
+  <div align="center">
 </div>
   <div align="center">
-  <img src="https://i.pcmag.com/imagery/roundups/02HDufdqeRUDu3tl0NnY2qZ-2.fit_lim.size_760x427.v1649351854.jpg">
+  <img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-06/software%20integrity%20blog.jpg">
 </div>
   
    ## :hammer_and_wrench: Languages and Tools I use :
@@ -27,12 +28,4 @@ Git <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2f
 HTML <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />  
 &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
-  
-  
 
-<div align="center">
-</div>
-  <div align="center">
-  <img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-06/software%20integrity%20blog.jpg">
-</div>

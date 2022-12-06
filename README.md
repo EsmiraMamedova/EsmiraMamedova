@@ -1,8 +1,8 @@
 ## Hi there!👋
-### My name is Kristina, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
+### My name is Esmira, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
 
 #### My LinkedIn profile:<div id="badges">
-  <a href="https://www.linkedin.com/in/kristina-tablev/">
+  <a href="https://www.linkedin.com/in/esmira-mamedova/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div align="center">

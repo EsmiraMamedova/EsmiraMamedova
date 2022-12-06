@@ -29,3 +29,4 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;    
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

@@ -1,6 +1,8 @@
 ## Hi there!👋
 ### My name is Esmira, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
 
+#### **- 🌱 I’m Software QA Engineer. More than 3 years experience in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop and Mobile Applications. Front and Back-end REST API Testing, CI/CD, code coverage analysis, relational databases End-to-End data tests.** 
+
 #### My LinkedIn profile:<div id="badges">
   <a href="https://www.linkedin.com/in/esmira-mamedova/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

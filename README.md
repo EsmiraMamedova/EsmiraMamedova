@@ -27,6 +27,7 @@ JavaScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a
 Git <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 HTML <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" /> &nbsp;
+   Postman <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;    
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
